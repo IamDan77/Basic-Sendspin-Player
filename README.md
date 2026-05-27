@@ -1,6 +1,10 @@
-Build process: https://youtu.be/qrFpkbAZsBY
 
 Convert any existing speaker you have to a fully local, home assistant compatible media player able to send announcments and sync music with music assistant. With just two parts!
+
+
+Forked from https://github.com/rgnyldz/rgnlabs-mediaplayer
+He has a video here: https://youtu.be/qrFpkbAZsBY
+I've added the ability to add to Music-Assistant as a sendspin player capable or syncing with other players
 
 
 Parts used;
